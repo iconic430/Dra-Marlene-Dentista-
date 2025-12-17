@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0 text-center md:text-left">
             <h3 className="text-2xl font-serif font-bold text-gold-400">Dra. Marlene Inzunza Morales</h3>
-            <p className="text-lilac-200 mt-2 text-sm">Odontología Integral y Estética Dental.</p>
+            <p className="text-lilac-200 mt-2 text-sm">+30 años creando sonrisas.</p>
             <p className="text-lilac-400 mt-1 text-xs">Aviso de Publicidad 2425042002A00219</p>
           </div>
 

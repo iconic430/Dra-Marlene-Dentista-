@@ -17,7 +17,7 @@ const Hero = () => {
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center md:text-left w-full">
         <div className="md:w-1/2 space-y-6 animate-fade-in-up">
           <span className="inline-block py-1 px-3 rounded-full bg-gold-100 text-gold-700 font-semibold tracking-wide text-sm mb-2 border border-gold-200">
-            Odontología Integral y Estética
+            +30 años creando sonrisas
           </span>
           <h1 className="text-5xl md:text-7xl font-bold text-lilac-900 leading-tight">
             Realza tu <span className="text-gold-600 italic">sonrisa natural</span> con expertos.
